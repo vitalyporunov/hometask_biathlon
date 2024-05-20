@@ -1,1 +1,1 @@
-# hometask_biathlon
+# biathlon_hometask
